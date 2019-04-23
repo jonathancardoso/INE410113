@@ -34,9 +34,9 @@ This repo it's for all the activities and homeworks related to **INE410113** ( T
 - Livro Sipser: 1.1-1.73
 
 ### Activity 1 (26 Apr 2019):
-[Description](activity1/Atividade 1.pdf "Atividade 1")
-[SPOJ Automata - GAME2](https://www.spoj.com/problems/AUTOMATA/ "AUTOMATA - GAME2")
-[Solution](/activity1/ "Solution Directory")
+- [Description](activity1/Atividade%201.pdf "Atividade 1")
+- [SPOJ Automata - GAME2](https://www.spoj.com/problems/AUTOMATA/ "AUTOMATA - GAME2")
+- [Solution](/activity1/ "Solution Directory")
 
 ## Linguagens Livres de Contexto (LLC)
 - Gramáticas Livres de Contexto
@@ -52,6 +52,6 @@ This repo it's for all the activities and homeworks related to **INE410113** ( T
 - Livro Sipser: 2.1-2.59
 
 ### Activity 2 (26 Apr 2019):
-[Description](activity2/Atividade 2.pdf "Atividade 2")
-[URI 1077 - Infix to Postfix](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077 "Infix to Postfix")
-[Solution](/activity2/ "Solution Directory")
+- [Description](activity2/Atividade%202.pdf "Atividade 2")
+- [URI 1077 - Infix to Postfix](https://www.urionlinejudge.com.br/judge/pt/problems/view/1077 "Infix to Postfix")
+- [Solution](/activity2/ "Solution Directory")
